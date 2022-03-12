@@ -24,9 +24,12 @@ Python, using libraries like NumPy and Pandas.
     * [Project 1](https://github.com/abdallah-elsawy/Advanced-Data-Analysis-Nanodegree-Program-Projects/tree/main/1-%20Query%20a%20Digital%20Music%20Store%20Database):  
 
 - 2-  Practical Statistics :
+Learn how to apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests
+and building supervised learning models.
     * [Project 2](https://github.com/abdallah-elsawy/Advanced-Data-Analysis-Nanodegree-Program-Projects/tree/main/2-%20Analyze%20A-B%20Test-Results):  
 
-- 3- Data Visualization in Tableau
+- 3- Data Visualization in Tableau: 
+learn to evaluate the quality of data visualizations and build high quality visualizations, starting with the fundamentals of data dashboards.
     * [Project 3](https://github.com/abdallah-elsawy/Advanced-Data-Analysis-Nanodegree-Program-Projects/tree/main/3-%20Data%20Visualization%20project%20using%20Tableau):  
 
 
