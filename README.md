@@ -12,23 +12,23 @@ The Udacity Nanodegree Graduation [Certificate](https:) 🥰❤️🧑‍🎓
 
 
 
-This program prepares you for a career as a data analyst by helping you learn to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. You’ll develop proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as you build a portfolio of projects to showcase in your job search. 
+This program prepares you for a career as a data analyst by helping you learn to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. You’ll develop proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) SQL and Tableau Software visualization as you build a portfolio of projects to showcase in your job search. 
 
 The amount of time required is variable.The program covers one term of three month. In order to succeed in this program, we recommend having experience working with data in Python (Numpy and Pandas) and SQL.
 
 The Syllabus is [here](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf)
 
-- 1-  SQL for Data Analysis:
+- 1-  SQL for Data Analysis
 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in
 Python, using libraries like NumPy and Pandas.
     * [Project 1](https://github.com/abdallah-elsawy/Advanced-Data-Analysis-Nanodegree-Program-Projects/tree/main/1-%20Query%20a%20Digital%20Music%20Store%20Database):  
 
-- 2-  Practical Statistics :
+- 2-  Practical Statistics 
 Learn how to apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests
 and building supervised learning models.
     * [Project 2](https://github.com/abdallah-elsawy/Advanced-Data-Analysis-Nanodegree-Program-Projects/tree/main/2-%20Analyze%20A-B%20Test-Results):  
 
-- 3- Data Visualization in Tableau: 
+- 3- Data Visualization in Tableau
 learn to evaluate the quality of data visualizations and build high quality visualizations, starting with the fundamentals of data dashboards.
     * [Project 3](https://github.com/abdallah-elsawy/Advanced-Data-Analysis-Nanodegree-Program-Projects/tree/main/3-%20Data%20Visualization%20project%20using%20Tableau):  
 
